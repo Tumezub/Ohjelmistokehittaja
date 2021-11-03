@@ -42,6 +42,11 @@ namespace NeljännetHarjotukset
             int toka = int.Parse(Console.ReadLine());
             int jjaannos = eka % toka;
             Console.WriteLine("Annoit luvut " + eka + " ja " + toka + ", ja niiden jakojäännös on " + jjaannos);
+            
+            Console.WriteLine("Tehtävä5");
+            Console.WriteLine("Anna nimesi :");
+            string nimi = Console.ReadLine();
+            Console.WriteLine("Hei " + nimi + "!");
         }
     }
 }
