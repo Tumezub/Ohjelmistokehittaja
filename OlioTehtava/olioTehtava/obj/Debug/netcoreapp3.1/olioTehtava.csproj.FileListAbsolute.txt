@@ -1,0 +1,14 @@
+C:\Users\tuoma\source\repos\Ohjelmistokehittaja\olioTehtava\olioTehtava\obj\Debug\netcoreapp3.1\olioTehtava.csproj.AssemblyReference.cache
+C:\Users\tuoma\source\repos\Ohjelmistokehittaja\olioTehtava\olioTehtava\obj\Debug\netcoreapp3.1\olioTehtava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuoma\source\repos\Ohjelmistokehittaja\olioTehtava\olioTehtava\obj\Debug\netcoreapp3.1\olioTehtava.AssemblyInfoInputs.cache
+C:\Users\tuoma\source\repos\Ohjelmistokehittaja\olioTehtava\olioTehtava\obj\Debug\netcoreapp3.1\olioTehtava.AssemblyInfo.cs
+C:\Users\tuoma\source\repos\Ohjelmistokehittaja\olioTehtava\olioTehtava\obj\Debug\netcoreapp3.1\olioTehtava.csproj.CoreCompileInputs.cache
+C:\Users\tuoma\source\repos\Ohjelmistokehittaja\olioTehtava\olioTehtava\bin\Debug\netcoreapp3.1\olioTehtava.exe
+C:\Users\tuoma\source\repos\Ohjelmistokehittaja\olioTehtava\olioTehtava\bin\Debug\netcoreapp3.1\olioTehtava.deps.json
+C:\Users\tuoma\source\repos\Ohjelmistokehittaja\olioTehtava\olioTehtava\bin\Debug\netcoreapp3.1\olioTehtava.runtimeconfig.json
+C:\Users\tuoma\source\repos\Ohjelmistokehittaja\olioTehtava\olioTehtava\bin\Debug\netcoreapp3.1\olioTehtava.runtimeconfig.dev.json
+C:\Users\tuoma\source\repos\Ohjelmistokehittaja\olioTehtava\olioTehtava\bin\Debug\netcoreapp3.1\olioTehtava.dll
+C:\Users\tuoma\source\repos\Ohjelmistokehittaja\olioTehtava\olioTehtava\bin\Debug\netcoreapp3.1\olioTehtava.pdb
+C:\Users\tuoma\source\repos\Ohjelmistokehittaja\olioTehtava\olioTehtava\obj\Debug\netcoreapp3.1\olioTehtava.dll
+C:\Users\tuoma\source\repos\Ohjelmistokehittaja\olioTehtava\olioTehtava\obj\Debug\netcoreapp3.1\olioTehtava.pdb
+C:\Users\tuoma\source\repos\Ohjelmistokehittaja\olioTehtava\olioTehtava\obj\Debug\netcoreapp3.1\olioTehtava.genruntimeconfig.cache
